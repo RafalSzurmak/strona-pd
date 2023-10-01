@@ -1,0 +1,29 @@
+*{
+    background: black;
+    width: 900px;
+}
+
+.white {background-color: white;}
+.red { background-color: red; }
+.grey {background-color: gray;}
+
+.box {
+    width: 500px;
+    height: 200px;
+    }
+.p {
+    width: 200px;
+    height: 100px
+    
+}
+.section1 {
+    display: flex;
+    float: left;
+    margin: 10px;
+    
+}
+.box2{
+    width: 100px;
+    height: 200px;
+}
+
